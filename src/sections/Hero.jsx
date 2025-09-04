@@ -50,7 +50,7 @@ const Hero = () => {
       <div className="hero-container">
         <div className="hero-content">
           <h1 className="hero-title">
-            ¡Hola! Soy Janeth Amixtla <span className="highlight">Developer Jr</span>
+            ¡Hola! Soy Janeth Amixtlan <span className="highlight">Developer Jr</span>
           </h1>
           <p className="hero-subtitle">
             Desarrollador Frontend apasionado por crear experiencias web increíbles
