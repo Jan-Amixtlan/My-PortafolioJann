@@ -35,16 +35,16 @@ const Projects = () => {
     },
     {
       id: 2,
-      title: 'App de Tareas',
-      description: 'Aplicación de gestión de tareas con filtros, categorías y persistencia de datos.',
-      technologies: ['React', 'CSS3', 'JavaScript', 'React Hooks'],
+      title: 'Sistema de Efectos Industriales',
+      description: 'Un sistema integral de experiencias visuales interactivas, diseñado para empresas de manufactura que buscan optimizar su presencia digital y maximizar el impacto de su marca industrial.',
+      technologies: ['HTML5', 'React', 'CSS', 'Git', 'Vercel'],
       images: [
         '/src/assets/images/Osdemscnc.png',
         '/src/assets/images/osdemscnc2.png',
         '/src/assets/images/osdemscnc3.png'
       ],
-      github: '#',
-      demo: '#'
+      github: 'https://github.com/Jan-Amixtlan/osdemscnc-react/tree/main/osdemscnc-react',
+      demo: 'https://www.osdemscnc.com/'
     },
     {
       id: 3,

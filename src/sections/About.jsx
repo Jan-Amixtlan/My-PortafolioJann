@@ -69,7 +69,7 @@ const About = () => {
             <div className="description-card">
               <h3>Mi Historia</h3>
               <p>
-                Soy una desarrolladora frontend apasionada, graduada en Ingeniería en Sistemas Computacionales. 
+                Soy una desarrolladora frontend apasionada, graduada en Ingeniería en Desarrollo y Gestión de Software. 
                 Mi viaje en el desarrollo web comenzó durante mis estudios universitarios, donde descubrí mi amor 
                 por crear interfaces de usuario intuitivas y atractivas.
               </p>
