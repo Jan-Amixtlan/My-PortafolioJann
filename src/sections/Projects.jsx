@@ -26,12 +26,12 @@ const Projects = () => {
       description: 'Una plataforma de comercio electrónico completa con carrito de compras, sistema de pagos y panel de administración.',
       technologies: ['React', 'Node.js', 'MongoDB', 'Stripe'],
       images: [
-        'https://via.placeholder.com/400x250/4a5568/ffffff?text=E-commerce+Home',
-        'https://via.placeholder.com/400x250/2d3748/ffffff?text=Shopping+Cart',
-        'https://via.placeholder.com/400x250/718096/ffffff?text=Admin+Panel'
+        '/src/assets/images/758shots_so.png',
+        '/src/assets/images/502shots_so.png',
+        '/src/assets/images/263shots_so.png'
       ],
-      github: 'https://github.com/usuario/ecommerce',
-      demo: 'https://ecommerce-demo.com'
+      github: 'https://github.com/Jan-Amixtlan/sistema-ventas/tree/main/sistema-ventas-nuevo',
+      demo: 'https://www.osdemsventas.com/'
     },
     {
       id: 2,

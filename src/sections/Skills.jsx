@@ -60,7 +60,6 @@ const Skills = () => {
         { name: 'JavaScript', icon: "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" },
         { name: 'React Native', icon: "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" },
         { name: 'ReactJS', icon: "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Light.svg" },
-        { name: 'Astro', icon: "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Astro.svg" },
         { name: 'TailwindCSS', icon: "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" },
         { name: 'Bootstrap', icon: "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" },
         { name: 'VueJS', icon: "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" }
@@ -69,15 +68,11 @@ const Skills = () => {
     {
       title: 'Backend',
       skills: [
-        { name: 'Slim PHP', icon: "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" },
-        { name: 'Express', icon: "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" },
-        { name: 'Laravel', icon: "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" },
         { name: 'MySQL', icon: "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" },
         { name: 'MongoDB', icon: "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" },
         { name: 'NodeJS', icon: "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" },
         { name: 'Spring', icon: "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" },
         { name: 'FastAPI', icon: "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg" },
-        { name: 'PostgreSQL', icon: "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" }
       ]
     },
     {
@@ -88,8 +83,6 @@ const Skills = () => {
         { name: 'NPM', icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" },
         { name: 'Ubuntu', icon: "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ubuntu-Dark.svg" },
         { name: 'Postman', icon: "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" },
-        { name: 'Yarn', icon: "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Yarn-Dark.svg" },
-        { name: 'Expo', icon: "https://www.svgrepo.com/show/353723/expo-icon.svg" },
         { name: 'VS Code', icon: "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" },
         { name: 'Android Studio', icon: "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" }
       ]

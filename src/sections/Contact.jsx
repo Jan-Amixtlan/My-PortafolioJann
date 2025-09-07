@@ -7,15 +7,15 @@ const Contact = () => {
     {
       icon: Mail,
       title: 'Email',
-      value: 'janeth.amixtla@email.com',
-      link: 'mailto:janeth.amixtla@email.com',
+      value: 'janethamixtlan127@gmail.com',
+      link: 'mailto:janethamixtlan127@gmail.com',
       color: '#ea4335'
     },
     {
       icon: Linkedin,
       title: 'LinkedIn',
-      value: '/in/janeth-amixtla',
-      link: 'https://linkedin.com/in/janeth-amixtla',
+      value: 'https://www.linkedin.com/in/janeth-ahuacatitla-amixtlan-b84331267/',
+      link: 'https://www.linkedin.com/in/janeth-ahuacatitla-amixtlan-b84331267/',
       color: '#0077b5'
     },
     {
@@ -28,7 +28,7 @@ const Contact = () => {
     {
       icon: MapPin,
       title: 'Ubicación',
-      value: 'Xicotepec, Puebla',
+      value: 'Huauchinango, Puebla',
       link: null,
       color: '#34a853'
     }

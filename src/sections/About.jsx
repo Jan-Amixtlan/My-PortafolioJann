@@ -4,18 +4,20 @@ import { GraduationCap, Award, Calendar, MapPin, User, Code, BookOpen } from 'lu
 const About = () => {
   const education = [
     {
-      title: "Ingeniería en Sistemas Computacionales",
-      institution: "Universidad Tecnológica de Xicotepec",
-      period: "2020 - 2024",
+      title: "Ingeniería en Desarrollo y Gestión de Software",
+      institution: "Universidad Tecnológica de Xicotepec de Juárez",
+      period: "2023 - 2025",
       status: "Graduada",
-      description: "Especialización en desarrollo de software, bases de datos y arquitectura de sistemas."
+      // cedula: "87654321", // Reemplaza con tu número de cédula real
+      description: "Formación integral en metodologías de desarrollo de software, diseño y optimización de bases de datos, arquitectura de sistemas escalables, y gestión de proyectos tecnológicos con enfoque en soluciones innovadoras."
     },
     {
-      title: "Certificación Frontend Development",
-      institution: "FreeCodeCamp",
-      period: "2023",
-      status: "Completado",
-      description: "HTML, CSS, JavaScript, React y proyectos prácticos de desarrollo web."
+      title: "T.S.U en Desarrollo de Software Multiplataforma",
+      institution: "Universidad Tecnológica de Xicotepec de Juárez",
+      period: "2021 - 2023",
+      status: "Graduada",
+      cedula: "14931907", // Reemplaza con tu número de cédula real
+      description: "Formación técnica especializada en desarrollo de aplicaciones multiplataforma, programación web con tecnologías modernas (HTML5, CSS3, JavaScript ES6+, React), metodologías ágiles, control de versiones y desarrollo de proyectos integrales de software."
     },
     {
       title: "Curso React Avanzado",
@@ -28,8 +30,8 @@ const About = () => {
 
   const personalInfo = [
     { icon: User, label: "Nombre", value: "Janeth Amixtla" },
-    { icon: MapPin, label: "Ubicación", value: "Xicotepec, Puebla" },
-    { icon: Calendar, label: "Experiencia", value: "2+ años" },
+    { icon: MapPin, label: "Ubicación", value: "Huauchinango, Puebla" },
+    { icon: Calendar, label: "Experiencia", value: "--" },
     { icon: Code, label: "Especialización", value: "Frontend Development" }
   ]
 
@@ -107,6 +109,9 @@ const About = () => {
                     <div className="education-meta">
                       <span className="institution">{edu.institution}</span>
                       <span className="period">{edu.period}</span>
+                      {edu.cedula && (
+                        <span className="cedula">Cédula Profesional: {edu.cedula}</span>
+                      )}
                     </div>
                     <p className="education-description">{edu.description}</p>
                   </div>
