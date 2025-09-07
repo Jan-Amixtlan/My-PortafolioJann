@@ -39,9 +39,9 @@ const Projects = () => {
       description: 'Aplicación de gestión de tareas con filtros, categorías y persistencia de datos.',
       technologies: ['React', 'CSS3', 'JavaScript', 'React Hooks'],
       images: [
-        'https://via.placeholder.com/400x250/4a5568/ffffff?text=Task+Board',
-        'https://via.placeholder.com/400x250/2d3748/ffffff?text=Categories',
-        'https://via.placeholder.com/400x250/718096/ffffff?text=Reminders'
+        '/src/assets/images/Osdemscnc.png',
+        '/src/assets/images/osdemscnc2.png',
+        '/src/assets/images/osdemscnc3.png'
       ],
       github: '#',
       demo: '#'
