@@ -22,9 +22,9 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      title: 'E-commerce Platform',
-      description: 'Una plataforma de comercio electrónico completa con carrito de compras, sistema de pagos y panel de administración.',
-      technologies: ['React', 'Node.js', 'MongoDB', 'Stripe'],
+      title: 'Sistema de Ventas',
+      description: 'Un sistema integral de gestión de ventas, diseñado para empresas que buscan optimizar sus procesos comerciales y maximizar sus resultados de ventas',
+      technologies: ['HTML5','React', 'Vite', 'CSS', 'Git', 'Vercel'],
       images: [
         '/src/assets/images/758shots_so.png',
         '/src/assets/images/502shots_so.png',
