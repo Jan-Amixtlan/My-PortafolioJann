@@ -26,9 +26,9 @@ const Projects = () => {
       description: 'Un sistema integral de gestión de ventas, diseñado para empresas que buscan optimizar sus procesos comerciales y maximizar sus resultados de ventas',
       technologies: ['HTML5','React', 'Vite', 'CSS', 'Git', 'Vercel'],
       images: [
-        '/public/758shots_so.png',
-        '/public/502shots_so.png',
-        '/public/263shots_so.png'
+        '/758shots_so.png',
+        '/502shots_so.png',
+        '/263shots_so.png'
       ],
       github: 'https://github.com/Jan-Amixtlan/sistema-ventas/tree/main/sistema-ventas-nuevo',
       demo: 'https://www.osdemsventas.com/'
@@ -40,8 +40,8 @@ const Projects = () => {
       technologies: ['HTML5', 'React', 'CSS', 'Git', 'Vercel'],
       images: [
         '/Osdemscnc.png',
-        '/public/osdemscnc2.png',
-        '/public/osdemscnc3.png'
+        '/osdemscnc2.png',
+        '/osdemscnc3.png'
       ],
       github: 'https://github.com/Jan-Amixtlan/osdemscnc-react/tree/main/osdemscnc-react',
       demo: 'https://www.osdemscnc.com/'
