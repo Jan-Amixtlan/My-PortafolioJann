@@ -69,14 +69,22 @@ const About = () => {
             <div className="description-card">
               <h3>Mi Historia</h3>
               <p>
-                Soy una desarrolladora frontend apasionada, graduada en Ingeniería en Desarrollo y Gestión de Software. 
+                Soy una desarrolladora frontend apasionada con formación en Ingeniería en Desarrollo y Gestión de Software. 
                 Mi viaje en el desarrollo web comenzó durante mis estudios universitarios, donde descubrí mi amor 
                 por crear interfaces de usuario intuitivas y atractivas.
               </p>
               <p>
                 Me especializo en React, JavaScript y CSS moderno, siempre buscando escribir código limpio, 
                 mantenible y eficiente. Mi enfoque se centra en crear experiencias de usuario excepcionales, 
-                combinando diseño atractivo con funcionalidad robusta.
+                combinando diseño atractivo con funcionalidad robusta. Tengo experiencia trabajando tanto en 
+                proyectos nuevos como en el desarrollo frontend de sitios web existentes. Además, disfruto 
+                crear wireframes y prototipos en Figma para visualizar ideas antes de desarrollarlas.
+              </p>
+              <p>
+                También tengo conocimientos en WordPress para proyectos de gestión de contenido, incluyendo 
+                configuración de plugins, personalización de elementos y modificación de sitios existentes. 
+                Me apasiona analizar desafíos complejos y desarrollar soluciones tecnológicas efectivas que 
+                generen un impacto real en los proyectos empresariales.
               </p>
               <p>
                 Cuando no estoy programando, disfruto aprendiendo nuevas tecnologías, contribuyendo a 
