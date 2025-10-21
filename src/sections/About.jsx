@@ -103,7 +103,7 @@ const About = () => {
                     <div className="education-header">
                       <h4>{edu.title}</h4>
                       <span className={`education-status ${edu.status.toLowerCase()}`}>
-                        {edu.status === 'Titulada' ? <Award size={14} /> : <BookOpen size={14} />}
+                        {(edu.status === 'Titulada' || edu.status === 'Graduada') ? <Award size={14} /> : <BookOpen size={14} />}
                         {edu.status}
                       </span>
                     </div>
