@@ -48,55 +48,16 @@ const Projects = () => {
     },
     {
       id: 3,
-      title: 'Weather App',
-      description: 'Aplicación del clima que consume API externa para mostrar pronósticos en tiempo real.',
-      technologies: ['JavaScript', 'OpenWeather API', 'CSS3', 'PWA'],
+      title: 'Odonto-Nieves',
+      description: 'Sitio web profesional para consultorio odontológico con diseño moderno y funcional. Incluye información detallada de servicios, especialidades médicas, galería de casos y sistema de contacto para gestión de citas.',
+      technologies: ['HTML5', 'React', 'CSS', 'Git','Vercel'],
       images: [
         'https://via.placeholder.com/400x250/4a5568/ffffff?text=Current+Weather',
         'https://via.placeholder.com/400x250/2d3748/ffffff?text=7+Day+Forecast',
         'https://via.placeholder.com/400x250/718096/ffffff?text=Weather+Map'
       ],
-      github: '#',
-      demo: '#'
-    },
-    {
-      id: 4,
-      title: 'Portfolio Personal',
-      description: 'Sitio web personal responsive con diseño moderno y animaciones CSS.',
-      technologies: ['React', 'CSS3', 'Framer Motion', 'Netlify'],
-      images: [
-        'https://via.placeholder.com/400x250/4a5568/ffffff?text=Portfolio+Home',
-        'https://via.placeholder.com/400x250/2d3748/ffffff?text=Projects+Gallery',
-        'https://via.placeholder.com/400x250/718096/ffffff?text=Contact+Form'
-      ],
-      github: '#',
-      demo: '#'
-    },
-    {
-      id: 5,
-      title: 'Dashboard Analytics',
-      description: 'Dashboard interactivo para visualización de datos con gráficos dinámicos y métricas en tiempo real.',
-      technologies: ['React', 'Chart.js', 'Firebase', 'CSS Grid'],
-      images: [
-        'https://via.placeholder.com/400x250/4a5568/ffffff?text=Dashboard+Overview',
-        'https://via.placeholder.com/400x250/2d3748/ffffff?text=Analytics+Charts',
-        'https://via.placeholder.com/400x250/718096/ffffff?text=Real+Time+Data'
-      ],
-      github: '#',
-      demo: '#'
-    },
-    {
-      id: 6,
-      title: 'Social Media Clone',
-      description: 'Clon de red social con publicaciones, likes, comentarios y chat en tiempo real.',
-      technologies: ['React', 'Socket.io', 'Express', 'PostgreSQL'],
-      images: [
-        'https://via.placeholder.com/400x250/4a5568/ffffff?text=News+Feed',
-        'https://via.placeholder.com/400x250/2d3748/ffffff?text=Profile+Page',
-        'https://via.placeholder.com/400x250/718096/ffffff?text=Real+Time+Chat'
-      ],
-      github: '#',
-      demo: '#'
+      github: 'https://github.com/Jan-Amixtlan/odonto-nieves',
+      demo: 'https://odonto-nieves.vercel.app/'
     }
   ]
 

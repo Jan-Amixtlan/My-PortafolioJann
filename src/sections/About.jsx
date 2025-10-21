@@ -7,7 +7,7 @@ const About = () => {
       title: "Ingeniería en Desarrollo y Gestión de Software",
       institution: "Universidad Tecnológica de Xicotepec de Juárez",
       period: "2023 - 2025",
-      status: "Graduada",
+      status: "Titulada",
       // cedula: "87654321", // Reemplaza con tu número de cédula real
       description: "Formación integral en metodologías de desarrollo de software, diseño y optimización de bases de datos, arquitectura de sistemas escalables, y gestión de proyectos tecnológicos con enfoque en soluciones innovadoras."
     },
@@ -15,16 +15,9 @@ const About = () => {
       title: "T.S.U en Desarrollo de Software Multiplataforma",
       institution: "Universidad Tecnológica de Xicotepec de Juárez",
       period: "2021 - 2023",
-      status: "Graduada",
+      status: "Titulada",
       cedula: "14931907", // Reemplaza con tu número de cédula real
       description: "Formación técnica especializada en desarrollo de aplicaciones multiplataforma, programación web con tecnologías modernas (HTML5, CSS3, JavaScript ES6+, React), metodologías ágiles, control de versiones y desarrollo de proyectos integrales de software."
-    },
-    {
-      title: "Curso React Avanzado",
-      institution: "Platzi",
-      period: "2023",
-      status: "Completado",
-      description: "Hooks, Context API, optimización de rendimiento y patrones avanzados."
     }
   ]
 
@@ -110,7 +103,7 @@ const About = () => {
                     <div className="education-header">
                       <h4>{edu.title}</h4>
                       <span className={`education-status ${edu.status.toLowerCase()}`}>
-                        {edu.status === 'Graduada' ? <Award size={14} /> : <BookOpen size={14} />}
+                        {edu.status === 'Titulada' ? <Award size={14} /> : <BookOpen size={14} />}
                         {edu.status}
                       </span>
                     </div>
