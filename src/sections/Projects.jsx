@@ -48,13 +48,13 @@ const Projects = () => {
     },
     {
       id: 3,
-      title: 'Odonto-Nieves',
+      title: 'Sistema Odontológico Nieves',
       description: 'Sitio web profesional para consultorio odontológico con diseño moderno y funcional. Incluye información detallada de servicios, especialidades médicas, galería de casos y sistema de contacto para gestión de citas.',
       technologies: ['HTML5', 'React', 'CSS', 'Git','Vercel'],
       images: [
-        'https://via.placeholder.com/400x250/4a5568/ffffff?text=Current+Weather',
-        'https://via.placeholder.com/400x250/2d3748/ffffff?text=7+Day+Forecast',
-        'https://via.placeholder.com/400x250/718096/ffffff?text=Weather+Map'
+        '/OdontoNieves1.png',
+        '/OdontoNieves2.png',
+        '/OdontoNieves3.png'
       ],
       github: 'https://github.com/Jan-Amixtlan/odonto-nieves',
       demo: 'https://odonto-nieves.vercel.app/'
