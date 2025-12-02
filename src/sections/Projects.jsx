@@ -58,6 +58,19 @@ const Projects = () => {
       ],
       github: 'https://github.com/Jan-Amixtlan/odonto-nieves',
       demo: 'https://odonto-nieves.vercel.app/'
+    },
+    {
+      id: 4,
+      title: 'Sistema Servicios Reparación de Autos',
+      description: 'Sistema integral de servicios para la reparación y mantenimiento de vehículos. Especializados en diagnóstico computarizado, mecánica ligera y pesada, sistema eléctrico, suspensión, frenos y carrocería.',
+      technologies: ['HTML5', 'React', 'CSS', 'Git','Vercel'],
+      images: [
+        '/RefaccionesMoviles.png',
+        '/RefaccionesServices.png',
+        '/Refacciones.png'
+      ],
+      github: 'https://github.com/Jan-Amixtlan/Reparacion-de-automoviles',
+      demo: 'https://prueba-tecnica-frontend-iota.vercel.app/'
     }
   ]
 
