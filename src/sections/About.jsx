@@ -74,11 +74,16 @@ const About = () => {
                 crear wireframes y prototipos en Figma para visualizar ideas antes de desarrollarlas.
               </p>
               <p>
-                También tengo conocimientos en WordPress para proyectos de gestión de contenido, incluyendo 
-                configuración de plugins, personalización de elementos y modificación de sitios existentes. 
-                Me apasiona analizar desafíos complejos y desarrollar soluciones tecnológicas efectivas que 
-                generen un impacto real en los proyectos empresariales.
+                Como parte de mi trabajo en la transformación digital de marcas, he desarrollado y mantenido 
+                sitios web en WordPress, personalizando experiencias visuales y funcionales desde cero. 
+                Utilizo Elementor para crear diseños adaptativos y atractivos, modificando estilos,
+                maquetaciones y comportamientos según las necesidades de cada proyecto. Además, he integrado 
+                y configurado plugins esenciales como soporte multidioma y conectores de comunicación (WhatsApp), 
+                optimizando la interacción con el usuario y ampliando el alcance de cada marca. Mi rol también incluye 
+                mantenimiento continuo, asegurando que los sitios estén actualizados, seguros y con un rendimiento óptimo 
+                en todo momento.
               </p>
+             
               <p>
                 Cuando no estoy programando, disfruto aprendiendo nuevas tecnologías, contribuyendo a 
                 proyectos de código abierto y manteniéndome actualizada con las últimas tendencias del desarrollo web.
