@@ -31,7 +31,7 @@ const Projects = () => {
         '/263shots_so.png'
       ],
       github: 'https://github.com/Jan-Amixtlan/sistema-ventas/tree/main/sistema-ventas-nuevo',
-      demo: 'https://www.osdemsventas.com/'
+      demo: 'https://sistema-ventas-self.vercel.app/'
     },
     {
       id: 2,
